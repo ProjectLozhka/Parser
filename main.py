@@ -48,7 +48,7 @@ def pars_for_month_in_year(url, writer):
             writer.writerow(row)
             n += 1
         except:
-            print('Error')
+            print('Error1')
     pass
 
 def take_url_for_all(url):
