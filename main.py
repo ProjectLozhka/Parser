@@ -244,7 +244,7 @@ def replace_same_lines(f1, f2):
 
 
 # print(cut_url_2('https://arxiv.org/list/astro-ph/2003?show=1267', 6))
-print(real_human_being('https://export.arxiv.org/list/astro-ph/0603?show=944', 'astrophysics5.csv'))
+print(real_human_being('https://export.arxiv.org/list/astro-ph/9401?show=55', 'astrophysics5.csv'))
 # main_parse_category_bez_sveniy('https://arxiv.org/archive/astro-ph', 'astrophysics2.csv')
 # print(pars_for_years('https://arxiv.org/archive/astro-ph'))
 # print(pars_for_months('https://arxiv.org/year/astro-ph/22'))
