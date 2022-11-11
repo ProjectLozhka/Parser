@@ -1,0 +1,394 @@
+"Title:
+Inflationary Potential Reconstruction for a WMAP Running Power Spectrum","
+Abstract: The first year WMAP measurement of the CMB temperature anisotropy is
+intriguingly consistent with a larger running of the inflationary scalar
+spectral index than would be expected for single-field inflation. We revisit
+the issue of a large running spectral index, first by reexamining the evidence
+from the data, and then by reconstructing the inflationary potential, using an
+improved method based upon the Hamilton-Jacobi formulation. We note that a
+spectrum which runs only over 1.5 decades of k space provides as good a fit to
+the CMB data as one which runs at all k, that significant evidence for running
+comes from multipoles l near 40, and that large running gives a better fit than
+a flat spectrum primarily if the tensor-to-scalar ratio $r$ is large, r ~ 0.5,
+and the field values are at the Planck scale. This allows one to break the
+large degeneracy of potentials which would be consistent with the scalar power
+alone. Large running, should it be confirmed, is thus linked to a high scale of
+inflation and the possibility of seeing effects of tensor modes in the CMB and
+Planck-scale physics. Nevertheless, we show that the reconstructed inflaton
+potential is well-described by a renormalizable potential whose quantum
+corrections are under control despite the large field values.
+",https://export.arxiv.org/pdf/astro-ph/0603403
+"Title:
+The Origin of the Initial Mass Function","
+Abstract: We review recent advances in our understanding of the origin of the initial
+mass function (IMF). We emphasize the use of numerical simulations to
+investigate how each physical process involved in star formation affects the
+resulting IMF. We stress that it is insufficient to just reproduce the IMF, but
+that any successful model needs to account for the many observed properties of
+star forming regions including clustering, mass segregation and binarity.
+Fragmentation involving the interplay of gravity, turbulence, and thermal
+effects is probably responsible for setting the characteristic stellar mass.
+Low-mass stars and brown dwarfs can form through the fragmentation of dense
+filaments and disks, possibly followed by early ejection from these dense
+environments which truncates their growth in mass. Higher-mass stars and the
+Salpeter-like slope of the IMF are most likely formed through continued
+accretion in a clustered environment. The effects of feedback and magnetic
+fields on the origin of the IMF are still largely unclear. Lastly, we discuss a
+number of outstanding problems that need to be addressed in order to develop a
+complete theory for the origin of the IMF.
+",https://export.arxiv.org/pdf/astro-ph/0603447
+"Title:
+Annihilation Emission from the Galactic Black Hole","
+Abstract: Both diffuse high energy gamma-rays and an extended electron-positron
+annihilation line emission have been observed in the Galactic Center (GC)
+region. Although X-ray observations indicate that the galactic black hole Sgr
+A$^*$ is inactive now, we suggest that Sgr A$^*$ can become active when a
+captured star is tidally disrupted and matter is accreted into the black hole.
+As a consequence the galactic black hole could be a powerful source of
+relativistic protons. We are able to explain the current observed diffuse
+gamma-rays and the very detailed 511 keV annihilation line of secondary
+positrons by $p-p$ collisions of such protons, with appropriate injection times
+and energy. Relativistic protons could have been injected into the ambient
+material if the black hole captured a 50M$_\odot$ star at several tens million
+years ago. An alternative possibility is that the black hole continues to
+capture stars with $\sim$1M$_\odot$ every hundred thousand years. Secondary
+positrons produced by $p-p$ collisions at energies $\ga 30$ MeV are cooled down
+to thermal energies by Coulomb collisions, and annihilate in the warm neutral
+and ionized phases of the interstellar medium with temperatures about several
+eV, because the annihilation cross-section reaches its maximum at these
+temperatures. It takes about ten million years for the positrons to cool down
+to thermal temperatures so they can diffuse into a very large extended region
+around the Galactic center. A much more recent star capture may be also able to
+account for recent TeV observations within 10 pc of the galactic center as well
+as for the unidentified GeV gamma-ray sources found by EGRET at GC. The
+spectral difference between the GeV flux and the TeV flux could be explained
+naturally in this model as well.
+",https://export.arxiv.org/pdf/astro-ph/0603659
+"Title:
+Exotic Low Density Fermion States in the Two Measures Field Theory:  Neutrino Dark Energy","
+Abstract: We study a new field theory effect in the cosmological context in the Two
+Measures Field Theory (TMT). TMT is an alternative gravity and matter field
+theory where the gravitational interaction of fermionic matter is reduced to
+that of General Relativity when the energy density of the fermion matter is
+much larger than the dark energy density. In this case also the 5-th force
+problem is solved automatically. In the opposite limit, where the magnitudes of
+fermionic energy density and scalar field dark energy density become
+comparable, nonrelativistic fermions can participate in the cosmological
+expansion in a very unusual manner. Some of the features of such states in a
+toy model of the late time universe filled with homogeneous scalar field and
+uniformly distributed nonrelativistic neutrinos: neutrino mass increases as m ~
+a^{3/2}; the neutrino gas equation-of-state approaches w=-1, i.e. neutrinos
+behave as a sort of dark energy; the total (scalar field + neutrino)
+equation-of-state also approaches w=-1; the total energy density of such
+universe is less than it would be in the universe filled with the scalar field
+alone. An analytic solution is presented. A domain structure of the dark energy
+seems to be possible. We speculate that decays of the CLEP state neutrinos may
+be both an origin of cosmic rays and responsible for a late super-acceleration
+of the universe. In this sense the CLEP states exhibit simultaneously new
+physics at very low densities and for very high particle masses.
+",https://export.arxiv.org/pdf/gr-qc/0603070
+"Title:
+Clumpy shocks and the clump mass function","
+Abstract: In this paper, we examine whether clumpy, colliding, flows could be
+responsible for the clump mass functions that have been observed in several
+regions of embedded star formation, which have been shown to be described by a
+Salpeter type slope. The flows presented here, which comprise a population of
+initially identical clumps and the calculations are performed with and without
+the inclusion of self-gravity. When the shock region is at its densest, we find
+that the clump mass spectrum is always well modelled by a Salpeter type slope.
+This is true regardless of whether the self-gravity is included in the
+simulations or not. In the non-self-gravitating simulations, this slope is
+retained at lower Mach numbers (Mach 5 and 10) as the simulations progress past
+the densest phase. In the simulations which include self-gravity, we find that
+low Mach number runs yield a flatter mass function after the densest phase.
+This is simply a result of increased coagulation due to gravitational collapse
+of the flows. In the high Mach number runs (Mach 20) the Salpeter slope is
+always lost. The self gravitating calculations also show that the sub-group of
+gravitationally bound clumps in which star formation occurs, always contain the
+most massive clumps in the population. The mass function of these bound star
+forming clumps is not at all similar to the Salpeter type mass function
+observed for stars in the field. We conclude that the clump mass function may
+not only have nothing to do with gravity, but also nothing to do with the star
+formation process and the resulting mass distribution of stars. This raises
+doubt over the claims that the clump mass function is the origin of the stellar
+IMF, for regions such as rho Oph, Serpens and the Orion B cloud.
+",https://export.arxiv.org/pdf/astro-ph/0603578
+"Title:
+Wilkinson Microwave Anisotropy Probe (WMAP) Three Year Results:  Implications for Cosmology","
+Abstract: A simple cosmological model with only six parameters (matter density, Omega_m
+h^2, baryon density, Omega_b h^2, Hubble Constant, H_0, amplitude of
+fluctuations, sigma_8, optical depth, tau, and a slope for the scalar
+perturbation spectrum, n_s) fits not only the three year WMAP temperature and
+polarization data, but also small scale CMB data, light element abundances,
+large-scale structure observations, and the supernova luminosity/distance
+relationship. Using WMAP data only, the best fit values for cosmological
+parameters for the power-law flat LCDM model are (Omega_m h^2, Omega_b h^2, h,
+n_s, tau, sigma_8) = 0.1277+0.0080-0.0079, 0.02229+-0.00073, 0.732+0.031-0.032,
+0.958+-0.016, 0.089+-0.030, 0.761+0.049-0.048). The three year data
+dramatically shrink the allowed volume in this six dimensional parameter space.
+Assuming that the primordial fluctuations are adiabatic with a power law
+spectrum, the WMAP data_alone_ require dark matter, and favor a spectral index
+that is significantly less than the Harrison-Zel'dovich-Peebles scale-invariant
+spectrum (n_s=1, r=0). Models that suppress large-scale power through a running
+spectral index or a large-scale cut-off in the power spectrum are a better fit
+to the WMAP and small scale CMB data than the power-law LCDM model; however,
+the improvement in the fit to the WMAP data is only Delta chi^2 = 3 for 1 extra
+degree of freedom. The combination of WMAP and other astronomical data yields
+significant constraints on the geometry of the universe, the equation of state
+of the dark energy, the gravitational wave energy density, and neutrino
+properties. Consistent with the predictions of simple inflationary theories, we
+detect no significant deviations from Gaussianity in the CMB maps.
+",https://export.arxiv.org/pdf/astro-ph/0603449
+"Title:
+Gamma rays from dark matter annihilation in the Draco and observability  at ARGO","
+Abstract: The CACTUS experiment recently observed a gamma ray excess above 50 GeV from
+the direction of the Draco dwarf spheroidal galaxy. Considering that Draco is
+dark matter dominated the gamma rays may be generated through dark matter
+annihilation in the Draco halo. In the framework of the minimal supersymmetric
+extension of the standard model we explore the parameter space to account for
+the gamma ray signals at CACTUS. We find that the neutralino mass is
+constrained to be approximately in the range between 100 GeV ~ 400 GeV and a
+sharp central cuspy of the dark halo profile in Draco is necessary to explain
+the CACTUS results. We then discuss further constraints on the supersymmetric
+parameter space by observations at the ground based ARGO detector. It is found
+that the parameter space can be strongly constrained by ARGO if no excess from
+Draco is observed above 100 GeV.
+",https://export.arxiv.org/pdf/astro-ph/0603022
+"Title:
+Galactic Planetary Nebulae with Wolf-Rayet Nuclei III. Kinematical  Analysis of a Large Sample of Nebulae","
+Abstract: Expansion velocities (Vexp) of different ions and line widths at the base of
+the lines are measured and analyzed for 24 PNe with [WC]-type nuclei (WRPNe), 9
+PNe ionized by WELS (WLPNe) and 14 ordinary PNe. A comparative study of the
+kinematical behavior of the sample clearly demonstrates that WRPNe have in
+average 40-45% larger Vexp, and possibly more turbulence than WLPNe and
+ordinary PNe. WLPNe have velocity fields very much alike the ones of ordinary
+PNe, rather than the ones of WRPNe. All the samples (WRPNe, WLPNe and ordinary
+PNe) show expansion velocities increasing with age indicators, for example
+<Vexp> is larger for low-density nebulae and also it is larger for nebulae
+around high-temperature stars. This age effect is much stronger for evolved
+WRPNe, suggesting that the [WC] winds have been accelerating the nebulae for a
+long time, while for non-WRPNe the acceleration seems to stop at some point
+when the star reaches a temperature of about 90,000-100,000 K. Non-WR nebulae
+reach a maximum Vexp < 30 km/s while evolved WRPNe reach maximum Vexp of about
+40 km/s. For all kind of objects (WRPNe and non-WRPNe) it is found that in
+average Vexp(N+) is slightly larger than Vexp(O++), indicating that the nebulae
+present acceleration of the external shells.
+",https://export.arxiv.org/pdf/astro-ph/0603651
+"Title:
+Mass spectrum of primordial black holes from inflationary perturbation  in the Randall-Sundrum braneworld: a limit on blue spectra","
+Abstract: The mass spectrum of the primordial black holes formed by density
+perturbation in the radiation-dominated era of the Randall-Sundrum type-2
+cosmology is given. The spectrum coincides with standard four-dimensional one
+on large scales but the deviation is apparent on smaller scales. The mass
+spectrum is initially softer than standard four-dimensional one, while after
+accretion during the earliest era it becomes harder than that. We also show
+expected extragalactic diffuse photon background spectra varying the initial
+perturbation power-law power spectrum and give constraints on the blue spectra
+and/or the reheating temperature. The most recent observations on the small
+scale density perturbation from WMAP, SDSS and Lyman-\alpha Forest are used.
+What we get are interpreted as constraints on the smaller scale inflation on
+the brane connected to the larger one at the scale of Lyman-\alpha Forest. If
+we set the bulk curvature radius to be 0.1 mm and assume the reheating
+temperature is higher than 10^6 GeV, the scalar spectral index from the smaller
+scale inflation is constrained to be n \lesssim 1.3. Typically, the constraints
+are tighter than standard four-dimensional one, which is also revised by us
+using the most recent observations.
+",https://export.arxiv.org/pdf/astro-ph/0603509
+"Title:
+Physics of Cosmic Reionization","
+Abstract: The study of cosmic reionization has acquired increasing significance over
+the last few years because of various reasons. On the observational front, we
+now have good quality data of different types at high redshifts (quasar
+absorption spectra, radiation backgrounds at different frequencies, cosmic
+microwave background polarization, Ly-alpha emitters and so on). Theoretically,
+the importance of the reionization lies in its close coupling with the
+formation of first cosmic structures, and there have been numerous progresses
+in modelling the process. In this article, we review the current status of our
+understanding of the physical processes governing the cosmic reionization based
+on available observational data.
+",https://export.arxiv.org/pdf/astro-ph/0603149
+"Title:
+Rebuttal to: Has dark energy really been discovered in the Lab?","
+Abstract: We argue that a recent discussion of Jetzer and Straumann [Phys. Lett. B 606,
+77 (2005)] relating the measured noise spectrum in Josephson junctions to van
+der Waals forces is incorrect. The measured noise spectrum in Josephson
+junctions is a consequence of the fluctuation dissipation theorem and the
+Josephson effect and has nothing to do with van der Waals forces. Consequently,
+the argument of Jetzer and Straumann does not shed any light on whether dark
+energy can or cannot be measured using superconducting Josephson devices."Title:
+Simplified Variational Principles for Barotropic Fluid Dynamics","
+Abstract: We introduce a three independent functions variational formalism for
+stationary and non-stationary barotropic flows. This is less than the four
+variables which appear in the standard equations of fluid dynamics which are
+the velocity field $\vec v$ and the density $\rho$. It will be shown how in
+terms of our new variable the Euler and continuity equations can be integrated
+in the stationary case.
+",https://export.arxiv.org/pdf/physics/0603162
+"Title:
+Bulk Motion of Ultrarelativistic Conical Blazar Jets","
+Abstract: Allowing for the conical shape of ultrarelativistic blazar jets with opening
+angles of a few degrees on parsec-scales we show that their bulk Lorentz
+factors and viewing angles can be much larger than the values usually inferred
+by combining their flux variability and proper motion measurements. This is in
+accord with our earlier finding that such ultrarelativistic (Lorentz factor,
+Gamma > 30) conical jets can reconcile the relatively slow apparent motions of
+VLBI knots in TeV blazars with the extremely fast flows implied by their rapid
+gamma-ray variability. This jet geometry also implies that de-projected jet
+opening angles will typically be significantly underestimated from VLBI
+measurements. In addition, de-projected jet lengths will be considerably
+overestimated if high Lorentz factors and significant opening angles are not
+taken into account.
+",https://export.arxiv.org/pdf/astro-ph/0603727
+"Title:
+An Efficient Method for the Evaluation of Secular Effects in the  Perturbed Keplerian Motion","
+Abstract: Binary systems subject to generic perturbations evolve on quasiperiodic
+orbits. We derive the most generic class of perturbations, which allow to
+evaluate secular effects via generalized complex true and eccentric anomaly
+parameters, by use of the residue theorem. Such perturbations include both the
+generic Brumberg force and various linear contributions to the conservative
+dynamics of compact binaries, up to the second post-Newtonian order. As an
+example, we compute the self-spin contribution to the luminosity due to
+gravitational radiation of a compact binary consisting of galactic black holes,
+the most important type of source for LISA. This translates to simply calculate
+the residue of the instantaneous energy loss in the origin of the complex
+parameter plane, which illustrates the power of the presented method.
+",https://export.arxiv.org/pdf/astro-ph/0603677
+"Title:
+The redshift distribution of short gamma-ray bursts from dynamically  formed neutron star binaries","
+Abstract: Short-hard gamma-ray bursts (SHBs) may arise from gravitational wave (GW)
+driven mergers of double neutron star (DNS) systems. DNSs may be ""primordial""
+or can form dynamically by binary exchange interactions in globular clusters
+during core-collapse. For primordial binaries, the time delay between formation
+and merger is expected to be short, tau~0.1 Gyr, implying that the redshift
+distribution of merger events should follow that of star-formation. We point
+out here that for dynamically formed DNSs, the time delay between
+star-formation and merger is dominated by the cluster core-collapse time,
+rather than by the GW inspiral time, yielding delays comparable to the Hubble
+time. We derive the redshift distribution of merger events of dynamically
+formed DNSs, and find it to differ significantly from that typically expected
+for primordial binaries. The observed redshift distribution of SHBs favors
+dynamical formation, although a primordial origin cannot be ruled out due to
+possible detection biases. Future red-shift observations of SHBs may allow to
+determine whether they are dominated by primordial or dynamically formed DNSs.
+",https://export.arxiv.org/pdf/astro-ph/0603440
+"Title:
+Sky surveys and deep fields of ground-based and space telescopes","
+Abstract: Selected results obtained in major observational sky surveys (DSS, 2MASS,
+2dF, SDSS) and deep field observations (HDF, GOODS, HUDF, etc.) are reviewed.
+Modern surveys provide information on the characteristics and space
+distribution of millions of galaxies. Deep fields allow one to study galaxies
+at the stage of formation and to trace their evolution over billions of years.
+The wealth of observational data is altering the face of modern astronomy: the
+formulation of problems and their solutions are changing and all the previous
+knowledge, from planetary studies in the solar system to the most distant
+galaxies and quasars, is being revised.
+",https://export.arxiv.org/pdf/astro-ph/0603154
+"Title:
+Relativistic statistical theory and generalized stosszahlansatz","
+Abstract: We have investigated the proof of the $H$ theorem within a manifestly
+covariant approach by considering the relativistic statistical theory developed
+in [Phy. Rev. E {\bf 66}, 056125, 2002; {\it ibid.} {\bf 72}, 036108 2005]. In
+our analysis, however, we have not considered the so-called deformed
+mathematics as did in the above reference. As it happens in the nonrelativistic
+limit, the molecular chaos hypothesis is slightly extended within the
+$\kappa$-formalism, and the second law of thermodynamics implies that the
+$\kappa$ parameter lies on the interval [-1,1]. It is shown that the
+collisional equilibrium states (null entropy source term) are described by a
+$\kappa$ power law generalization of the exponential Juttner distribution,
+e.g., $f(x,p)\propto (\sqrt{1+
+\kappa^2\theta^2}+\kappa\theta)^{1/\kappa}\equiv\exp_\kappa\theta$, with
+$\theta=\alpha(x)+\beta_\mu p^\mu$, where $\alpha(x)$ is a scalar, $\beta_\mu$
+is a four-vector, and $p^\mu$ is the four-momentum. As a simple example, we
+calculate the relativistic $\kappa$ power law for a dilute charged gas under
+the action of an electromagnetic field $F^{\mu\nu}$. All standard results are
+readly recovered in the particular limit $\kappa\to 0$.
+",https://export.arxiv.org/pdf/cond-mat/0603177
+"Title:
+On the role of galactic magnetic halo in the ultra high energy cosmic  rays propagation","
+Abstract: The study of propagation of Ultra High Energy Cosmic Rays (UHECR) is a key
+step in order to unveil the secret of their origin. Up to now it was considered
+only the influence of the galactic and the extragalactic magnetic fields. In
+this article we focus our analysis on the influence of the magnetic field of
+the galaxies standing between possible UHECR sources and us. Our main approach
+is to start from the well known galaxy distribution up to 120 Mpc. We use the
+most complete galaxy catalog: the LEDA catalog. Inside a sphere of 120 Mpc
+around us, we extract 60130 galaxies with known position. In our simulations we
+assign a Halo Dipole magnetic Field (HDF) to each galaxy. The code developed is
+able to retro-propagate a charged particle from the arrival points of UHECR
+data across our galaxies sample. We present simulations in case of Virgo
+cluster and show that there is a non negligible deviation in the case of
+protons of $7 \times 10^{19}$ eV, even if the $B$ value is conservative. Then
+special attention is devoted to the AGASA triplet where we find that NGC3998
+and NGC3992 could be possible candidates as sources.
+",https://export.arxiv.org/pdf/astro-ph/0603469
+"Title:
+Stellar remnants in galactic nuclei: mass segregation","
+Abstract: The study of how stars distribute themselves around a massive black hole
+(MBH) in the center of a galaxy is an important prerequisite for the
+understanding of many galactic-center processes. These include the observed
+overabundance of point X-ray sources at the Galactic center, the prediction of
+rates and characteristics of tidal disruptions of extended stars by the MBH and
+of inspirals of compact stars into the MBH, the latter being events of high
+importance for the future space borne gravitational wave interferometer LISA.
+In relatively small galactic nuclei, hosting MBHs with masses in the range
+10^5-10^7 Msun, the single most important dynamical process is 2-body
+relaxation. It induces the formation of a steep density cusp around the MBH and
+strong mass segregation, as more massive stars lose energy to lighter ones and
+drift to the central regions. Using a spherical stellar dynamical Monte-Carlo
+code, we simulate the long-term relaxational evolution of galactic nucleus
+models with a spectrum of stellar masses. Our focus is the concentration of
+stellar black holes to the immediate vicinity of the MBH. We quantify this mass
+segregation for a variety of galactic nucleus models and discuss its
+astrophysical implications. Special attention is given to models developed to
+match the conditions in the Milky Way nucleus; we examine the presence of
+compact objects in connection to recent high-resolution X-ray observations.
+",https://export.arxiv.org/pdf/astro-ph/0603280
+"Title:
+The Serendipitous Extragalactic X-Ray Source Identification (SEXSI)  Program. III. Optical Spectroscopy","
+Abstract: We present the catalog of 477 spectra from the Serendipitous Extragalactic
+X-ray Source Identification (SEXSI) program, a survey designed to probe the
+dominant contributors to the 2-10 keV cosmic X-ray background. Our survey
+covers 1 deg^2 of sky to 2-10 keV fluxes of 10^-14 erg cm^-2 s^-1, and 2 deg^2
+for fluxes of 3 x 10^-14 erg cm^-2 s^-1. Our spectra reach to R <24 and have
+produced redshifts for 438 hard X-ray sources. The vast majority of the 2-10
+keV-selected sample are AGN with redshifts between 0.1 and 3. We find that few
+sources at z<1 have high X-ray luminosities, reflecting a dearth of high-mass,
+high-accretion-rate sources at low redshift, a result consistent with other
+recent wide-area surveys. Half of our sources show significant obscuration,
+with N_H>10^22 cm^-2, independent of unobscured luminosity. We classify 168
+sources as emission-line galaxies; all are X-ray luminous objects with optical
+spectra lacking both high-ionization lines and evidence of a non-stellar
+continuum. The redshift distribution of these emission-line galaxies peaks at a
+significantly lower redshift than does that of the sources we spectroscopically
+identify as AGN. We conclude that few of these sources can be powered by
+starburst activity. Stacking spectra for a subset of these sources, we detect
+[Ne V] emission, a clear signature of AGN activity, confirming that the
+majority of these objects are Seyfert 2s in which the high-ionization lines are
+diluted by stellar emission. We find 33 objects lacking broad lines in their
+optical spectra which have quasar X-ray luminosities (Lx>10^44 erg s^-1), the
+largest sample of such objects identified to date. In addition, we explore 17
+AGN associated with galaxy clusters and find that the cluster-member AGN sample
+has a lower fraction of broad-line AGN than does the background sample.
+",https://export.arxiv.org/pdf/astro-ph/0603556
+"Title:
+The GOODS-North Radio Galaxies: On the Origin of the Radio Emission","
+Abstract: We report on a preliminary study concerning the origin of radio emission
+within radio galaxies at L(1.4GHz)>1E24 W/Hz in the GOODS-N field. In the local
+universe, Condon et al. (2002) and Yun et al. (2001) have shown that in
+galaxies with radio luminosities greater than 1E23 W/Hz the majority of the
+radio emission originates from a `monster' i.e., an AGN. Using the Chandra
+2Msec X-ray image centered on the GOODS-N field and a reprocessed VLA HDF
+A-array data plus newly acquired VLA B-array data (rms=5.3microJy), we find
+that radio galaxies (with spectroscopic redshifts; all have z>1) with
+L(1.4GHz)>1E24 W/Hz typically have an X-ray detection rate of 72% (60% emit
+hard X-rays suggesting an AGN origin for the radio emission) in contrast to 25%
+for radio galaxies with L < 1E23 W/Hz. The ACS images of these L(1.4 GHz) >
+1E24 W/Hz galaxies typically show compact rather than extended galaxy
+morphology which is generally found for the less luminous radio emitting
+galaxies but a few appear to be ongoing galaxy mergers. We also present SED
+fitting for these luminous radio galaxies including Spitzer IRAC & MIPS 24um
+photometry and 60% show distinct power-law SED indicative of an AGN. Initial
+results tell us that the X-ray emitting radio galaxy population are generally
+not submm sources but the few (~10%) that are SCUBA sources appear to be the
+small AGN population found by Pope et al. and others.
+",https://export.arxiv.org/pdf/astro-ph/0603412

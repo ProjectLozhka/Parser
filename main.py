@@ -5,10 +5,10 @@ import re
 import csv
 from fake_useragent import UserAgent
 import random
+import time
 
 
-def pars_title(url):
-    proxies, hdr = proxies_headers()
+def pars_title(url, hdr, proxies):
     response = requests.get(url, headers=hdr, proxies=proxies)
     soup = BeautifulSoup(response.text, 'html.parser')
     title = ''
@@ -20,11 +20,8 @@ def pars_title(url):
     quotes = soup.find_all('blockquote', class_='abstract mathjax')
     for quote in quotes:
         annotation = quote.text
-
-    pdf = 'https://arxiv.org'
-    quotes = soup.find_all('a', class_='abs-button download-pdf')
-    for quote in quotes:
-        pdf += quote['href']
+    print(annotation)
+    pdf = url.replace('abs', 'pdf')
     res = [title, annotation, pdf]
     return res
 
@@ -38,7 +35,7 @@ def pars_for_month_in_year(url, writer):
     base_url = 'https://arxiv.org'
     for quote in quotes:
         try:
-            row = pars_title(base_url + quote['href'])
+            row = pars_title(base_url + quote['href'], hdr, proxies)
             print('Wrote row: ' + str(n))
             writer.writerow(row)
             n += 1
@@ -91,26 +88,43 @@ def pars_for_years(url):
 def main_parse_category_bez_sveniy(url, filename):
     f = open(filename, 'w')
     writer = csv.writer(f)
-    header = ['Ttile', 'Annotation', 'PDF']
+    header = ['Title', 'Annotation', 'PDF']
+    years = []
+    flag_2 = False
     writer.writerow(header)
-    years = pars_for_years(url)
+    while not flag_2:
+        try:
+            years = pars_for_years(url)
+            flag_2 = True
+        except:
+            print('Error in main')
+            time.sleep(20)
     random.shuffle(years)
     for year in years:
         print('Parsing year: ' + year)
-        try:
-            months = pars_for_months(year)
-            random.shuffle(months)
-            for month in months:
-                try:
-                    print('Parsing month: ' + month)
-                    month = take_url_for_all(month)
-                    pars_for_month_in_year(month, writer)
-                except:
-                    print('Error in month')
-        except:
-            print('Error in year')
+        flag_1 = False
+        while not flag_1:
+            try:
+                months = pars_for_months(year)
+                random.shuffle(months)
+                flag_1 = True
+                for month in months:
+                    flag = False
+                    while not flag:
+                        try:
+                            print('Parsing month: ' + month)
+                            month = take_url_for_all(month)
+                            pars_for_month_in_year(month, writer)
+                            flag = True
+                        except:
+                            print('Error in month')
+                            time.sleep(20)
+            except:
+                print('Error in year')
+                time.sleep(20)
     f.close()
     pass
+
 
 def proxies_headers():
     ua = UserAgent()
@@ -135,7 +149,104 @@ def proxies_headers():
     proxies = {'http': proxy2}
     return proxies, hdr
 
-main_parse_category_bez_sveniy('https://arxiv.org/archive/astro-ph', 'astrophysics1.csv')
+
+def real_human_being(url, filename, n=0, article_urls=None):
+    f = open(filename, 'w')
+    writer = csv.writer(f)
+    proxies, hdr = proxies_headers()
+    new_url = cut_url(url)
+    response = requests.get(new_url, proxies=proxies, headers=hdr)
+    time.sleep(random.randrange(100, 500) / 1000)
+    new_url = cut_url_2(url, 4)
+    response = requests.get(new_url, proxies=proxies, headers=hdr)
+    time.sleep(random.randrange(100, 500) / 1000)
+    new_url = cut_url_2(url, 6)
+    response = requests.get(new_url, proxies=proxies, headers=hdr)
+    time.sleep(random.randrange(100, 500) / 1000)
+    response = requests.get(url, proxies=proxies, headers=hdr)
+    time.sleep(random.randrange(100, 500) / 1000)
+    print(response.ok)
+    if article_urls is None:
+        header = ['Title', 'Annotation', 'PDF']
+        writer.writerow(header)
+        article_urls = []
+        soup = BeautifulSoup(response.text, 'html.parser')
+        quotes = soup.find_all('a', title='Abstract')
+        base_url = 'https://export.arxiv.org'
+        for quote in quotes:
+            try:
+                article_urls.append(base_url + quote['href'])
+            except:
+                print('Error1')
+    n = random_article_parse(article_urls, proxies, hdr, writer, n)
+    if article_urls:
+        real_human_being(url, filename, n, article_urls)
+    else:
+        f.close()
+        pass
+
+
+def random_article_parse(article_urls, proxies, hdr, writer, n):
+    m = random.randrange(10, 100)
+    for i in range(m):
+        article_url = random.choice(article_urls)
+        article_urls.remove(article_url)
+        row = pars_title(article_url, hdr, proxies)
+        try:
+            writer.writerow(row)
+            n += 1
+            print('Wrote row: ' + str(n))
+            print(row)
+        except:
+            print('error')
+        if not article_urls:
+            return n
+    return n
+
+
+def cut_url(url):
+    new_url = ''
+    n = 0
+    for letter in url:
+        if letter == '/':
+            n += 1
+        if n >= 5:
+            new_url = new_url.replace('list', 'year')
+            return new_url
+        new_url += letter
+    new_url = new_url.replace('list', 'year')
+    return new_url
+
+
+def cut_url_2(url, x):
+    new_url = ''
+    n = 0
+    m = 0
+    for letter in url:
+        if letter == '/':
+            n += 1
+        if n >= 5:
+            m += 1
+            if m >= x:
+                new_url = new_url.replace('list', 'year')
+                return new_url
+        new_url += letter
+    new_url = new_url.replace('list', 'year')
+    return new_url
+
+
+def replace_same_lines(f1, f2):
+    with open(f1, 'r') as in_file, open(f2, 'w') as out_file:
+        seen = set()  # set for fast O(1) amortized lookup
+        for line in in_file:
+            if line in seen: continue  # skip duplicate
+            seen.add(line)
+            out_file.write(line)
+
+
+# print(cut_url_2('https://arxiv.org/list/astro-ph/2003?show=1267', 6))
+print(real_human_being('https://export.arxiv.org/list/astro-ph/0603?show=944', 'astrophysics5.csv'))
+# main_parse_category_bez_sveniy('https://arxiv.org/archive/astro-ph', 'astrophysics2.csv')
 # print(pars_for_years('https://arxiv.org/archive/astro-ph'))
 # print(pars_for_months('https://arxiv.org/year/astro-ph/22'))
 # print(take_url_for_all('https://arxiv.org/list/astro-ph/2201'))

@@ -1,5 +1,6 @@
 import random
-
+import os
+from time import sleep
 from lxml.html import fromstring
 import requests
 from itertools import cycle
@@ -56,5 +57,30 @@ proxi = ['185.40.76.9:25739',
          ]
 proxy2 = 'http://uKZtU5TLAVBj:dan-kos1@' + random.choice(proxi)
 proxies = {'http': proxy2}
-response = requests.get('http://httpbin.org/ip', proxies=proxies)
-print(response.text)
+#response = requests.get('http://httpbin.org/ip', proxies=proxies)
+#print(response.text)
+
+# list of VPN server codes
+codeList = ["TR", "US-C", "US", "US-W", "CA", "CA-W",
+            "FR", "DE", "NL", "NO", "RO", "CH", "GB", "HK"]
+
+try:
+
+    # connect to VPN
+    os.system("windscribe connect")
+    while True:
+        # assigning a random VPN server code
+        choiceCode = random.choice(codeList)
+
+        # changing IP after a particular time period
+        sleep(random.randrange(120, 300))
+
+        # connecting to a different VPN server
+        print("!!! Changing the IP Address........")
+        os.system("windscribe connect " + choiceCode)
+
+except:
+
+    # disconnect VPN
+    os.system("windscribe disconnect")
+    print("sorry, some error has occurred..!!")
