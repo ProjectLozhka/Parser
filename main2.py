@@ -20,7 +20,7 @@ def pars_title(url):
     annotation = ''
     quotes = soup.find_all('blockquote', class_='abstract mathjax')
     for quote in quotes:
-        annotation = quote.text
+        annotation += quote.text
 
     pdf = 'https://export.arxiv.org'
     quotes = soup.find_all('a', class_='abs-button download-pdf')
