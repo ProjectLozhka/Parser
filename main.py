@@ -14,13 +14,12 @@ def pars_title(url, hdr, proxies):
     title = ''
     quotes = soup.find_all('h1', class_='title mathjax')
     for quote in quotes:
-        title += quote.text
+        title = quote.text
 
     annotation = ''
     quotes = soup.find_all('blockquote', class_='abstract mathjax')
     for quote in quotes:
         annotation = quote.text
-    print(annotation)
     pdf = url.replace('abs', 'pdf')
     res = [title, annotation, pdf]
     return res
