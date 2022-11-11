@@ -46,7 +46,7 @@ def pars_for_month_in_year(url, writer):
 def take_url_for_all(url):
     proxies, hdr = proxies_headers()
     response = requests.get(url, proxies=proxies, headers=hdr)
-    base_url = 'https://arxiv.org'
+    base_url = 'https://export.arxiv.org'
     soup = BeautifulSoup(response.text, 'html.parser')
     quotes = soup.find_all('small')
     n = len(quotes)
@@ -59,7 +59,7 @@ def take_url_for_all(url):
 def pars_for_months(url):
     proxies, hdr = proxies_headers()
     response = requests.get(url, headers=hdr, proxies=proxies)
-    base_url = 'https://arxiv.org'
+    base_url = 'https://export.arxiv.org'
     soup = BeautifulSoup(response.text, 'html.parser')
     quotes = soup.find('ul')
     quotes = quotes.find_all('li')
@@ -73,10 +73,10 @@ def pars_for_months(url):
 def pars_for_years(url):
     proxies, hdr = proxies_headers()
     response = requests.get(url, proxies=proxies, headers=hdr)
-    base_url = 'https://arxiv.org'
+    base_url = 'https://export.arxiv.org'
     soup = BeautifulSoup(response.text, 'html.parser')
-    quotes = soup.find_all('ul')
-    quotes = quotes[1].find_all('li')
+    quotes = soup.find('ul')
+    quotes = quotes.find_all('li')
     res = []
     quotes = quotes[7].find_all('a')
     for quote in quotes:
@@ -87,17 +87,11 @@ def pars_for_years(url):
 def main_parse_category_bez_sveniy(url, filename):
     f = open(filename, 'w')
     writer = csv.writer(f)
-    header = ['Title', 'Annotation', 'PDF']
     years = []
     flag_2 = False
-    writer.writerow(header)
     while not flag_2:
-        try:
-            years = pars_for_years(url)
-            flag_2 = True
-        except:
-            print('Error in main')
-            time.sleep(20)
+        years = pars_for_years(url)
+        flag_2 = True
     random.shuffle(years)
     for year in years:
         print('Parsing year: ' + year)
@@ -113,7 +107,8 @@ def main_parse_category_bez_sveniy(url, filename):
                         try:
                             print('Parsing month: ' + month)
                             month = take_url_for_all(month)
-                            pars_for_month_in_year(month, writer)
+                            month = [month]
+                            writer.writerow(month)
                             flag = True
                         except:
                             print('Error in month')
@@ -149,9 +144,7 @@ def proxies_headers():
     return proxies, hdr
 
 
-def real_human_being(url, filename, n=0, article_urls=None):
-    f = open(filename, 'w')
-    writer = csv.writer(f)
+def real_human_being(url, writer, n=0, article_urls=None):
     proxies, hdr = proxies_headers()
     new_url = cut_url(url)
     response = requests.get(new_url, proxies=proxies, headers=hdr)
@@ -166,8 +159,6 @@ def real_human_being(url, filename, n=0, article_urls=None):
     time.sleep(random.randrange(100, 500) / 1000)
     print(response.ok)
     if article_urls is None:
-        header = ['Title', 'Annotation', 'PDF']
-        writer.writerow(header)
         article_urls = []
         soup = BeautifulSoup(response.text, 'html.parser')
         quotes = soup.find_all('a', title='Abstract')
@@ -179,10 +170,25 @@ def real_human_being(url, filename, n=0, article_urls=None):
                 print('Error1')
     n = random_article_parse(article_urls, proxies, hdr, writer, n)
     if article_urls:
-        real_human_being(url, filename, n, article_urls)
+        real_human_being(url, writer, n, article_urls)
     else:
-        f.close()
         pass
+
+
+def main_parse_real(filename, filename2):
+    f = open(filename2, 'w')
+    writer = csv.writer(f)
+    header = ['Title', 'Annotation', 'PDF']
+    writer.writerow(header)
+    with open(filename) as file_obj:
+        reader_obj = csv.reader(file_obj)
+        for row in reader_obj:
+            try:
+                url = row[0]
+                real_human_being(url, writer)
+            except:
+                print('Null line')
+    f.close()
 
 
 def random_article_parse(article_urls, proxies, hdr, writer, n):
@@ -195,7 +201,6 @@ def random_article_parse(article_urls, proxies, hdr, writer, n):
             writer.writerow(row)
             n += 1
             print('Wrote row: ' + str(n))
-            print(row)
         except:
             print('error')
         if not article_urls:
@@ -243,8 +248,10 @@ def replace_same_lines(f1, f2):
             out_file.write(line)
 
 
+#main_parse_category_bez_sveniy('https://export.arxiv.org/archive/astro-ph', 'astrophysics4.csv')
+#replace_same_lines('astrophysics4.csv', 'astrophysics5.csv')
+main_parse_real('astrophysics5.csv', 'astrophysics6.csv')
 # print(cut_url_2('https://arxiv.org/list/astro-ph/2003?show=1267', 6))
-print(real_human_being('https://export.arxiv.org/list/astro-ph/9401?show=55', 'astrophysics5.csv'))
 # main_parse_category_bez_sveniy('https://arxiv.org/archive/astro-ph', 'astrophysics2.csv')
 # print(pars_for_years('https://arxiv.org/archive/astro-ph'))
 # print(pars_for_months('https://arxiv.org/year/astro-ph/22'))

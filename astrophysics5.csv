@@ -1,348 +1,367 @@
-"Title:
-High-Resolution Imaging of Faint Blue Galaxies","
-Abstract: We have used HRCam on the CFHT to obtain subarcsecond images of 26 galaxies
-with z=0.1--0.7. The primary sample of 17 galaxies have enhanced star formation
-indicated by [OII] equivalent widths greater than 20\AA, while the comparison
-sample of 9 galaxies have equivalent widths less than 10\AA. By fitting disks
-or bulges to BVI images we derive scalelengths for the blue and red stellar
-populations and locate the star-formation in each galaxy. These
-moderate-redshift galaxies generally have straightforward low-redshift
-analogues, in that their colours, sizes and luminosities are consistent with
-those of various types of z$\approx$0 galaxies. The star-forming objects have
-structures consistent with the full range of present-day disk galaxies, and
-absolute magnitudes M$^\ast$$-$1 to M$^\ast$+5. Some have star-formation
-concentrated in their nuclei but in most it occurs across the entire disk. We
-find companions at projected distances closer than 10 kpc for 30% of the
-star-forming galaxies, whereas none of the comparison sample have such close
-companions. This provides the first direct evidence linking interactions or
-mergers to the increased fraction of star-forming field galaxies at moderate
-redshifts.
-",https://export.arxiv.org/pdf/astro-ph/9401028
-
-"Title:
-Finite Source Sizes and the Information Content of MACHO-Type Lens  Search Light Curves","
-Abstract: If the dark halo matter is primarily composed of MACHOs toward the lower end
-of the possible detection range ($ < 10^{-3}$ $M_{\odot}$) a fraction of the
-lens detection events should involve the lens crossing directly in front of the
-disk of the background star. Previously, Nemiroff (1987) has shown that each
-crossing would create an inflection point in the light curve of the MACHO
-event. Such inflection points would allow a measure of the time it took for the
-gravitational lens to cross the stellar disk. Given an independent estimate of
-the stellar radius by other methods, one could then obtain a more accurate
-estimate of the velocity of the lens. This velocity could then, in turn, be
-used to obtain a more accurate estimate of the mass range for the MACHO or disk
-star doing the lensing.
-",https://export.arxiv.org/pdf/astro-ph/9401005
-
-"Title:
-Fireballs and Gamma-Ray Bursts","
-Abstract: The sudden release of copious $\g$-ray photons into a compact region creates
-an opaque photon--lepton fireball due to the prolific production of
-electron--positron pairs. The photons that we observe in the bursts emerge only
-at the end of the fireball phase after it expanded sufficiently to become
-optically thin or after it converted its energy to the kinetic energy of
-relativistic baryons which convert it, in turn, to electromagnetic pulse via
-the interaction with interstellar matter. It is essential, therefore, to
-analyze the evolution of a fireball in order to comprehend the observed
-features of $\gamma$-ray bursts. We discuss various aspects of fireball
-hydrodynamics and the resulting emitted spectra.
-",https://export.arxiv.org/pdf/astro-ph/9401031
-
-"Title:
-A Perturbative Method to solve fourth-order Gravity Field Equations","
-Abstract: We develop a method for solving the field equations of a quadratic
-gravitational theory coupled to matter. The quadratic terms are written as a
-function of the matter stress tensor and its derivatives in such a way to have,
-order by order, a set of Einstein field equations with an effective
-$T_{\mu\nu}$. We study the cosmological scenario recovering the de Sitter exact
-solution, and the first order (in the coupling constants $\alpha$ and $\beta$
-appearing in the gravitational Lagrangian) solution to the gauge cosmic string
-metric and the charged black hole. For this last solution we discuss the
-consequences on the thermodynamics of black holes, and in particular, the
-entropy - area relation which gets additional terms to the usual ${1\over4} A$
-value.
-",https://export.arxiv.org/pdf/gr-qc/9401013
-
-"Title:
-Upper Limits on Metals in Quasar Lyman-Alpha Forest Clouds: Absence of C  IV Lines in Echelle Spectra","
-Abstract: Recently Lu presented tentative evidence for C IV lines in QSO Lyman-alpha
-forest systems with strong lines. We have performed a similar search for C IV
-in our 10 km/sec echelle spectra of the bright QSO HS~1946+7658. We shifted the
-spectra to align the expected positions of the C IV lines in 65 Lyman-alpha
-systems, then added them. The resulting composite spectrum, equivalent to 390
-hours of exposure time on the Lick 3-m telescope, has a signal-to-noise ratio
-of 80 per 0.025 Angstrom in the rest frame of the absorbers. We do not see any
-C IV lines down to a $2\sigma$ limit of W$(1548) \leq 1.4 $~m\AA, about
-one-fifth of the strength of the lines seen by Lu. The C IV lines which Lu saw
-must be restricted to rare Lyman-alpha systems with large H I column densities
-$\geq 10^{14}$~cm$^{-2}$, which are too rare to show C IV in our sample. More
-common Lyman-alpha systems with H I column densities of $10^{13}$ --
-$10^{14}$~cm$^{-2}$ do not show C IV lines. If their ionization is H/H~I $=
-10^4$ then they have [C/H] $\leq -2.0$.
-",https://export.arxiv.org/pdf/astro-ph/9401041
-
-"Title:
-Large-Scale Mass Distribution Behind the Galactic Plane","
-Abstract: We map the smoothed mass-density distribution in the Galactic zone of
-avoidance (zoa), within $6000\kms$ of the Local Group, using potent
-reconstruction from peculiar velocities of galaxies. The interpolation into the
-zoa is based on the assumed gravitational nature of the velocity field implying
-a potential flow. The main dynamical features at a distance r=4000 km/s are (a)
-the peak of the Great Attractor connecting Centaurus and Pavo at l=330, (b) a
-moderate bridge connecting Perseus-Pisces and Cepheus at l= 140, and (c) an
-extension of a large void from the southern Galactic hemisphere into the zoa
-near the direction of Puppis, l=220-270. We find a strong correlation between
-the mass density and the IRAS and optical galaxy density at $b=+-20, which
-indicates that the main dynamical features in the zoa should also be seen in
-galaxy surveys through the Galactic plane. The gravitational acceleration at
-the Local Group, based on the mass distribution out to 6000 km/s, is strongly
-affected by the mass distribution in the zoa: its direction changes by 31 when
-the |b| < 20 zoa is included, bringing it to within 4 +- 19 of the CMB dipole.
-",https://export.arxiv.org/pdf/astro-ph/9401001
-
-"Title:
-Cosmic Temperature Fluctuations from Two Years of COBE DMR Observations","
-Abstract: The first two years of COBE DMR observations of the CMB anisotropy are
-analyzed and compared with our previously published first year results. The
-results are consistent, but the addition of the second year of data increases
-the precision and accuracy of the detected CMB temperature fluctuations. The
-two-year 53 GHz data are characterized by RMS temperature fluctuations of
-DT=44+/-7 uK at 7 degrees and DT=30.5+/-2.7 uK at 10 degrees angular
-resolution. The 53X90 GHz cross-correlation amplitude at zero lag is
-C(0)^{1/2}=36+/-5 uK (68%CL) for the unsmoothed 7 degree DMR data. A likelihood
-analysis of the cross correlation function, including the quadrupole
-anisotropy, gives a most likely quadrupole-normalized amplitude
-Q_{rms-PS}=12.4^{+5.2}_{-3.3} uK (68% CL) and a spectral index
-n=1.59^{+0.49}_{-0.55} for a power law model of initial density fluctuations,
-P(k)~k^n. With n fixed to 1.0 the most likely amplitude is 17.4 +/-1.5 uK (68%
-CL). Excluding the quadrupole anisotropy we find Q_{rms-PS}= 16.0^{+7.5}_{-5.2}
-uK (68% CL), n=1.21^{+0.60}_{-0.55}, and, with n fixed to 1.0 the most likely
-amplitude is 18.2+/-1.6 uK (68% CL). Monte Carlo simulations indicate that
-these derived estimates of n may be biased by ~+0.3 (with the observed low
-value of the quadrupole included in the analysis) and {}~+0.1 (with the
-quadrupole excluded). Thus the most likely bias-corrected estimate of n is
-between 1.1 and 1.3. Our best estimate of the dipole from the two-year DMR data
-is 3.363+/-0.024 mK towards Galactic coordinates (l,b)= (264.4+/-0.2 degrees,
-+48.1+/-0.4 degrees), and our best estimate of the RMS quadrupole amplitude in
-our sky is 6+/-3 uK.
-",https://export.arxiv.org/pdf/astro-ph/9401012
-
-"Title:
-Lick Galaxy Correlation Function Revised","
-Abstract: We re-estimate the angular 2-point galaxy correlation function from the Lick
-galaxy catalogue. We argue that the large-scale gradients observed in the Lick
-catalogue are dominated by real clustering and therefore they should not be
-subtracted prior to the estimation of the 2-p correlation function. We find
-that if no such correction is introduced the galaxy correlations are perfectly
-consistent with the those found in the APM survey. Thus, the long standing
-discrepancy between the Lick and APM angular correlations is lifted.
-",https://export.arxiv.org/pdf/astro-ph/9401037
-
-"Title:
-Modelling the Power Spectrum of Density Fluctuations: A Phenomenological  Approach","
-Abstract: We show how, based on considerations on the observed form of the galaxy
-2-point spatial correlation function xi(r), a very simplified -- yet
-surprisingly effective -- model for the linear density fluctuations power
-spectrum can be constructed. We first relate the observed large-scale shape of
-xi(r) to a power-law form for the power spectrum, P(k)\propto k^{-2.2}. For a
-plausible value of the bias parameter b = 1/sigma_8 ~ 1.8, one has (delta_rho /
-rho)_{rms} ~ 1 r ~ 3.5/h Mpc, suggesting that the change of slope observed in
-xi(r) around this scale marks the transition between the linear and nonlinear
-gravitational regimes. Under this working hypothesis, we use a simple
-analytical form to fit the large-scale correlations constraints together with
-the COBE CMB anisotropy measurement, thus constructing a simple
-phenomenological model for the linear power spectrum. Despite its simplicity,
-the model fits remarkably well directly estimated power spectra from different
-optical galaxy samples, and when evolved through an N-body simulation it
-provides a good match to the observed galaxy correlations. One of the most
-interesting features of the model is the small-scale one-dimensional velocity
-dispersion produced: sigma_{1d} = 450 Km s^{-1} at 0.5/h Mpc and sigma_{1d} =
-350 Km s^{-1} for separations larger than ~ 2/h Mpc.
-",https://export.arxiv.org/pdf/astro-ph/9401017
-
-"Title:
-Small-Scale Cosmic Microwave Background Anisotropies as a Probe of the  Geometry of the Universe","
-Abstract: We perform detailed calculations of cosmic microwave background (CMB)
-anisotropies in a CDM-dominated open universe with primordial adiabatic density
-perturbations for a variety of reionization histories. We show that to a great
-extent, the CMB anisotropies depend only on the geometry of the Universe, which
-in a matter dominated universe is determined by $\Omega$, and the optical depth
-to the surface of last scattering. In particular, the location of the primary
-Doppler peak depends primarily on $\Omega$ and is fairly insensitive to the
-other unknown parameters, such as $\Omega_b$, $h$, $\Lambda$, and the shape of
-the power spectrum. Therefore, measurements of CMB anisotropies on small scales
-may be used to determine $\Omega$.
-",https://export.arxiv.org/pdf/astro-ph/9401003
-
-"Title:
-The Radio Nebula of the Soft Gamma Ray Repeater SGR 1806-20","
-Abstract: Earlier we had suggested that G10.0-0.3, a non-thermal nebula, most likely an
-old supernova remnant (SNR), was associated with the soft gamma repeater (SGR)
-SGR 1806-20. Here we present new radio images obtained at the Very Large Array
-(VLA) of the non-thermal radio nebula G10.0-0.3. The nebula is a plerion with a
-hierarchy of nested amorphous components culminating in a peak. The recent
-dramatic detection of an X-ray point source coincident with the radio peak and
-a hard X-ray burst localized to G10.0-0.3 confirms the SNR-SGR association. We
-propose that the SGR is an isolated pulsar with both a steady and impulsive
-relativistic particle wind and these two together power the nebula. We note
-that both this SGR and SGR 0526-66 are offset from the centers of their SNRs
-which requires high space motion of the pulsar. We suggest that some natal
-mechanism produces high velocity and induces SGR activity.
-",https://export.arxiv.org/pdf/astro-ph/9401036"
-"Title:
-Synthesis of Galactic Stellar Populations and Expected Constraints from  Infrared Surveys","
-Abstract: Models of population synthesis for the Galaxy have been developed in order to
-understand galactic structure and evolution. They allow to test scenarii of
-evolution by comparisons between model predictions and observed distributions.
-Forthcoming near-infrared surveys will enormously increase the amount of
-information about the distributions of late type stars in the Galaxy. We show
-here how population synthesis models will help to analyse these surveys and to
-interprete them in terms of mass function, star formation history and stellar
-evolution.
-",https://export.arxiv.org/pdf/astro-ph/9401040
-
-"Title:
-Limits on Direct Detection of Gravitational Waves","
-Abstract: We compute energy density and strain induced by a primordial spectrum of
-gravitational waves on terrestrial- and space-based detectors (e.g., LIGO) as
-constrained by the COBE detection of microwave background anisotropy. For the
-case where the spectrum is created during inflation, we find new, stricter
-upper bounds on the induced strain, making detection unlikely. However,
-detectors might be useful for discovering (or ruling out) exotic,
-non-inflationary sources.
-",https://export.arxiv.org/pdf/astro-ph/9401050
-
-"Title:
-Angular Power Spectrum of the Microwave Background Anisotropy seen by  the COBE Differential Microwave Radiometer","
-Abstract: The angular power spectrum estimator developed by Peebles (1973) and Hauser &
-Peebles (1973) has been modified and applied to the 2 year maps produced by the
-COBE DMR. The power spectrum of the real sky has been compared to the power
-spectra of a large number of simulated random skies produced with noise equal
-to the observed noise and primordial density fluctuation power spectra of power
-law form, with $P(k) \propto k^n$. Within the limited range of spatial scales
-covered by the COBE DMR, corresponding to spherical harmonic indices $3 \leq
-\ell \lsim 30$, the best fitting value of the spectral index is $n =
-1.25^{+0.4}_{-0.45}$ with the Harrison-Zeldovich value $n = 1$ approximately
-0.5$\sigma$ below the best fit. For $3 \leq \ell \lsim 19$, the best fit is $n
-= 1.46^{+0.39}_{-0.44}$. Comparing the COBE DMR $\Delta T/T$ at small $\ell$ to
-the $\Delta T/T$ at $\ell \approx 50$ from degree scale anisotropy experiments
-gives a smaller range of acceptable spectral indices which includes $n = 1$.
-",https://export.arxiv.org/pdf/astro-ph/9401015
-
-"Title:
-Observational Constraints on the Spectral Index","
-Abstract: We address the possibility of bounding the spectral index $n$ of primordial
-density fluctuations, using both the cosmic microwave background (cmb)
-anisotropy and data on galaxies and clusters. Each piece of galaxy and cluster
-data is reduced to a value of $\sigma(R)$ (the linearly evolved {\em rms}
-density contrast with top hat smoothing on scale $R$) which allows data on
-different scales to be readily compared. As a preliminary application, we
-normalise the spectrum using the ten degree variance of the COBE data, and then
-compare the prediction with a limited sample of low energy data, for the MDM
-model with various values of $n$, $\Omega_\nu$ and $h$. With $h=.5$, the data
-constrain the spectral index to the range $0.7\lsim n \lsim 1.2$. If
-gravitational waves contribute to the cmb anisotropy with relative strength
-$R=6(1-n)$ (as in some models of inflation), the lower limit on $n$ is
-increased to about $0.85$. The uncertainty in $h$ widens this band by about
-$0.1$ at either end.
-",https://export.arxiv.org/pdf/astro-ph/9401014
-
-"Title:
-Analysis of Spots in the COBE DMR First Year Anisotropy Maps","
-Abstract: After the detection of structure in the microwave sky, the characterization
-of the observed features may be a useful guide to current and future
-experiments. The first year COBE-DMR sky maps were analyzed in order to
-identify the most significant hot and cold spots. The statistical significance
-of potential spots of cosmic origin was evaluated with Monte Carlo simulations.
-The area, eccentricity, and location of the most significant spots are given.
-",https://export.arxiv.org/pdf/astro-ph/9401038
-
-"Title:
-A Spectroscopic Method to Measure Macho Proper Motions","
-Abstract: A Massive Compact Halo Object (Macho) that lenses a background star will
-magnify different parts of the rotating stellar disk by varying amounts. The
-differential magnification will cause a shift in the centroid of the star's
-spectral lines during the lensing event. The shift is proportional to the ratio
-of the stellar radius to the projected separation of the Macho from the star.
-It therefore provides a direct measure of the Einstein ring radius, and so also
-a measure of the Macho's proper motion (angular speed). This measurement can
-remove some of the degeneracy between mass, distance to the lens, and
-transverse velocity that exists in the interpretation of results from ongoing
-microlensing experiments, and is an independent test of the lensing nature of
-the event. We show that using the high precision attainable by stellar radial
-velocity measurements, it is possible to measure proper motions for $\sim 10\%$
-of Machos that lens A-stars in the Large Magellanic Cloud (LMC), i.e.\ $\sim
-7\%$ of the type of relatively high-magnification events that have been
-reported to date. If this proper-motion measurement were combined with a
-parallax measurement of the ``reduced velocity'', then the Macho mass,
-distance, speed, and direction could each be separately determined. The shift
-can be measured for $\sim 20\%$ of the A-star events generated by Machos in the
-dark halo of the LMC. This in turn would provide a measurement of the fraction
-of LMC vs. Galactic Macho events.
-",https://export.arxiv.org/pdf/astro-ph/9401020
-
-"Title:
-On SUSY Dark Matter Detection with Spinless Nuclei","
-Abstract: We investigate the role of nuclear spin in elastic scattering of Dark Matter
-(DM) neutralinos from nuclei in the framework of the Minimal SUSY standard
-model (MSSM). The relative contribution of spin-dependent axial-vector and
-spin-independent scalar interactions to the event rate in a DM detector has
-been analyzed for various nuclei. Within general assumptions about the nuclear
-and nucleon structure we find that for nuclei with atomic weights $A > 50$ the
-spin-independent part of the event rate $R_{si}$ is larger than the
-spin-dependent one $R_{sd}$ in the domain of the MSSM parameter space allowed
-by the known experimental data and where the additional constraint for the
-total event rate $R =R_{sd} + R_{si} > 0.01$ is satisfied. The latter reflects
-realistic sensitivities of present and near future DM detectors. Therefore we
-expect equal chances for discovering the DM event either with spin-zero or with
-spin-non-zero isotopes if their atomic weights are $A_{1} \sim A_{2} > 50$.
-",https://export.arxiv.org/pdf/hep-ph/9401262
-
-"Title:
-Testing the Peculiar Velocity Field predicted from Redshift Surveys","
-Abstract: The reconstruction of the peculiar velocity field from the 1.936~Jy iras
-selected sample of galaxies is compared to a similar reconstruction from an
-optically selected sample. A general method for combining different samples to
-reconstruct a self-consistent density and peculiar velocity field is presented.
-The method is applied to determine how sensitive the derived peculiar velocity
-field is to the characteristics of the sample used. The possibility that the
-iras galaxies do not trace the general galaxy population is explored adopting a
-simple model of linear biasing between the iras and optical samples. We find
-that the velocity fields derived from the two samples are consistent, within
-the estimated shot noise error, for the case of no relative bias. This result
-suggests that the predicted peculiar velocity field based on iras samples is
-not sensitive to the sampling properties of iras galaxies. Combined with
-previous suggestion of a relative biasing of iras galaxies on small scales
-(about 5 h^-1Mpc), this result suggests scale dependent biasing.
-",https://export.arxiv.org/pdf/astro-ph/9401049
-
-"Title:
-Light Deflection in Perturbed Friedmann Universes","
-Abstract: In this letter a new formula for light deflection is derived using only
-physically observable concepts. The general result is specialized to
-cosmological perturbation theory and expressed in terms of gauge--invariant
-perturbation variables. The resulting scalar, vector and tensor equations are
-supplemented by simple examples for illustration. The gravity wave example may
-be of more than academic interest and even represent a new way to detect
-gravitational waves.
-",https://export.arxiv.org/pdf/astro-ph/9401033
-
-"Title:
-Empirical Constraints on Cosmological Gamma-Ray Bursts","
-Abstract: We place empirical constraints on the physical properties of $\gamma-$ray
-burst events at cosmological distances. In particular we derive probability
-distributions for the radiation energy $E_\gamma$, the minimum Lorentz factor
-$\gamma_{\rm min}$, the maximum baryonic mass $M_{\rm max}$ and the upper bound
-on the surrounding gas density $n_{\rm max}$ in the events, based on 169 bursts
-from the first BATSE catalog. Using peak flux as a distance indicator we probe
-bursts where the constraints are stronger than average. The resulting variance
-and skewness of the cosmological probability distributions are calculated in
-addition to their mean values: $\langle E_\gamma\rangle=4\times 10^{51} h^{-2}
-{\rm erg}$, $\langle \gamma_{\rm min}\rangle= 5\times 10^2$, $\langle M_{\rm
-max}\rangle=10^{-5}\xi^{-1} M_\odot$, and $\langle (\gamma/\gamma_{\rm
-min})^{-5} n_{\rm max}\rangle\lsim 10^{2} \xi^{-1}{\rm cm^{-3}}$, where $\xi$
-is the fraction of the total energy which is converted to $\gamma-$rays. The
-distribution of burst energies ends at about $10^{53} {\rm erg}$, close to the
-binding energy of a neutron star.
-",https://export.arxiv.org/pdf/astro-ph/9401019
-
+https://export.arxiv.org/list/astro-ph/1103?show=1116
+https://export.arxiv.org/list/astro-ph/1111?show=1337
+https://export.arxiv.org/list/astro-ph/1106?show=1114
+https://export.arxiv.org/list/astro-ph/1109?show=1343
+https://export.arxiv.org/list/astro-ph/1101?show=1201
+https://export.arxiv.org/list/astro-ph/1107?show=1061
+https://export.arxiv.org/list/astro-ph/1112?show=1099
+https://export.arxiv.org/list/astro-ph/1105?show=1074
+https://export.arxiv.org/list/astro-ph/1104?show=1021
+https://export.arxiv.org/list/astro-ph/1110?show=1205
+https://export.arxiv.org/list/astro-ph/1108?show=1087
+https://export.arxiv.org/list/astro-ph/0509?show=1009
+https://export.arxiv.org/list/astro-ph/0512?show=743
+https://export.arxiv.org/list/astro-ph/0503?show=811
+https://export.arxiv.org/list/astro-ph/0508?show=754
+https://export.arxiv.org/list/astro-ph/0506?show=846
+https://export.arxiv.org/list/astro-ph/0502?show=675
+https://export.arxiv.org/list/astro-ph/0505?show=731
+https://export.arxiv.org/list/astro-ph/0511?show=946
+https://export.arxiv.org/list/astro-ph/0507?show=808
+https://export.arxiv.org/list/astro-ph/0501?show=752
+https://export.arxiv.org/list/astro-ph/0510?show=955
+https://export.arxiv.org/list/astro-ph/0504?show=756
+https://export.arxiv.org/list/astro-ph/0109?show=616
+https://export.arxiv.org/list/astro-ph/0104?show=536
+https://export.arxiv.org/list/astro-ph/0102?show=568
+https://export.arxiv.org/list/astro-ph/0105?show=652
+https://export.arxiv.org/list/astro-ph/0110?show=767
+https://export.arxiv.org/list/astro-ph/0111?show=685
+https://export.arxiv.org/list/astro-ph/0107?show=676
+https://export.arxiv.org/list/astro-ph/0103?show=590
+https://export.arxiv.org/list/astro-ph/0108?show=579
+https://export.arxiv.org/list/astro-ph/0112?show=642
+https://export.arxiv.org/list/astro-ph/0101?show=635
+https://export.arxiv.org/list/astro-ph/0106?show=662
+https://export.arxiv.org/list/astro-ph/2203?show=1571
+https://export.arxiv.org/list/astro-ph/2204?show=1286
+https://export.arxiv.org/list/astro-ph/2208?show=1467
+https://export.arxiv.org/list/astro-ph/2202?show=1205
+https://export.arxiv.org/list/astro-ph/2211?show=566
+https://export.arxiv.org/list/astro-ph/2205?show=1397
+https://export.arxiv.org/list/astro-ph/2201?show=1291
+https://export.arxiv.org/list/astro-ph/2206?show=1459
+https://export.arxiv.org/list/astro-ph/2209?show=1559
+https://export.arxiv.org/list/astro-ph/2210?show=1551
+https://export.arxiv.org/list/astro-ph/2207?show=1430
+https://export.arxiv.org/list/astro-ph/9204?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9208?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9207?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9210?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9205?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9212?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9211?show=26
+https://export.arxiv.org/list/astro-ph/9206?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9209?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/1203?show=1156
+https://export.arxiv.org/list/astro-ph/1201?show=1154
+https://export.arxiv.org/list/astro-ph/1211?show=1270
+https://export.arxiv.org/list/astro-ph/1209?show=1139
+https://export.arxiv.org/list/astro-ph/1207?show=1127
+https://export.arxiv.org/list/astro-ph/1205?show=1193
+https://export.arxiv.org/list/astro-ph/1212?show=982
+https://export.arxiv.org/list/astro-ph/1208?show=1031
+https://export.arxiv.org/list/astro-ph/1204?show=1077
+https://export.arxiv.org/list/astro-ph/1202?show=1097
+https://export.arxiv.org/list/astro-ph/1210?show=1505
+https://export.arxiv.org/list/astro-ph/1206?show=1117
+https://export.arxiv.org/list/astro-ph/9306?show=43
+https://export.arxiv.org/list/astro-ph/9310?show=61
+https://export.arxiv.org/list/astro-ph/9304?show=39
+https://export.arxiv.org/list/astro-ph/9305?show=52
+https://export.arxiv.org/list/astro-ph/9311?show=80
+https://export.arxiv.org/list/astro-ph/9302?show=29
+https://export.arxiv.org/list/astro-ph/9312?show=78
+https://export.arxiv.org/list/astro-ph/9309?show=71
+https://export.arxiv.org/list/astro-ph/9301?skip=0&show=10
+https://export.arxiv.org/list/astro-ph/9307?show=51
+https://export.arxiv.org/list/astro-ph/9308?show=57
+https://export.arxiv.org/list/astro-ph/9303?show=34
+https://export.arxiv.org/list/astro-ph/0908?show=910
+https://export.arxiv.org/list/astro-ph/0905?show=934
+https://export.arxiv.org/list/astro-ph/0907?show=1075
+https://export.arxiv.org/list/astro-ph/0910?show=1151
+https://export.arxiv.org/list/astro-ph/0912?show=1145
+https://export.arxiv.org/list/astro-ph/0902?show=1021
+https://export.arxiv.org/list/astro-ph/0906?show=1063
+https://export.arxiv.org/list/astro-ph/0901?show=980
+https://export.arxiv.org/list/astro-ph/0904?show=889
+https://export.arxiv.org/list/astro-ph/0909?show=1191
+https://export.arxiv.org/list/astro-ph/0903?show=1064
+https://export.arxiv.org/list/astro-ph/0911?show=1060
+https://export.arxiv.org/list/astro-ph/1805?show=1424
+https://export.arxiv.org/list/astro-ph/1803?show=1254
+https://export.arxiv.org/list/astro-ph/1811?show=1467
+https://export.arxiv.org/list/astro-ph/1801?show=1385
+https://export.arxiv.org/list/astro-ph/1809?show=1273
+https://export.arxiv.org/list/astro-ph/1808?show=1253
+https://export.arxiv.org/list/astro-ph/1807?show=1438
+https://export.arxiv.org/list/astro-ph/1812?show=1227
+https://export.arxiv.org/list/astro-ph/1804?show=1293
+https://export.arxiv.org/list/astro-ph/1806?show=1261
+https://export.arxiv.org/list/astro-ph/1810?show=1533
+https://export.arxiv.org/list/astro-ph/1802?show=1162
+https://export.arxiv.org/list/astro-ph/1902?show=1180
+https://export.arxiv.org/list/astro-ph/1904?show=1435
+https://export.arxiv.org/list/astro-ph/1907?show=1480
+https://export.arxiv.org/list/astro-ph/1908?show=1408
+https://export.arxiv.org/list/astro-ph/1912?show=1306
+https://export.arxiv.org/list/astro-ph/1909?show=1524
+https://export.arxiv.org/list/astro-ph/1911?show=1290
+https://export.arxiv.org/list/astro-ph/1905?show=1367
+https://export.arxiv.org/list/astro-ph/1910?show=1499
+https://export.arxiv.org/list/astro-ph/1901?show=1264
+https://export.arxiv.org/list/astro-ph/1906?show=1201
+https://export.arxiv.org/list/astro-ph/1903?show=1641
+https://export.arxiv.org/list/astro-ph/0405?show=738
+https://export.arxiv.org/list/astro-ph/0401?show=703
+https://export.arxiv.org/list/astro-ph/0410?show=845
+https://export.arxiv.org/list/astro-ph/0403?show=815
+https://export.arxiv.org/list/astro-ph/0411?show=907
+https://export.arxiv.org/list/astro-ph/0406?show=765
+https://export.arxiv.org/list/astro-ph/0409?show=855
+https://export.arxiv.org/list/astro-ph/0402?show=759
+https://export.arxiv.org/list/astro-ph/0412?show=785
+https://export.arxiv.org/list/astro-ph/0407?show=737
+https://export.arxiv.org/list/astro-ph/0404?show=696
+https://export.arxiv.org/list/astro-ph/0408?show=649
+https://export.arxiv.org/list/astro-ph/9912?show=638
+https://export.arxiv.org/list/astro-ph/9901?show=462
+https://export.arxiv.org/list/astro-ph/9911?show=587
+https://export.arxiv.org/list/astro-ph/9905?show=451
+https://export.arxiv.org/list/astro-ph/9902?show=421
+https://export.arxiv.org/list/astro-ph/9908?show=416
+https://export.arxiv.org/list/astro-ph/9906?show=551
+https://export.arxiv.org/list/astro-ph/9910?show=622
+https://export.arxiv.org/list/astro-ph/9903?show=549
+https://export.arxiv.org/list/astro-ph/9909?show=576
+https://export.arxiv.org/list/astro-ph/9907?show=491
+https://export.arxiv.org/list/astro-ph/9904?show=475
+https://export.arxiv.org/list/astro-ph/0607?show=760
+https://export.arxiv.org/list/astro-ph/0606?show=848
+https://export.arxiv.org/list/astro-ph/0611?show=1056
+https://export.arxiv.org/list/astro-ph/0601?show=797
+https://export.arxiv.org/list/astro-ph/0604?show=701
+https://export.arxiv.org/list/astro-ph/0602?show=710
+https://export.arxiv.org/list/astro-ph/0608?show=826
+https://export.arxiv.org/list/astro-ph/0610?show=1054
+https://export.arxiv.org/list/astro-ph/0605?show=854
+https://export.arxiv.org/list/astro-ph/0609?show=915
+https://export.arxiv.org/list/astro-ph/0612?show=907
+https://export.arxiv.org/list/astro-ph/0603?show=944
+https://export.arxiv.org/list/astro-ph/1709?show=1333
+https://export.arxiv.org/list/astro-ph/1705?show=1326
+https://export.arxiv.org/list/astro-ph/1707?show=1213
+https://export.arxiv.org/list/astro-ph/1704?show=1021
+https://export.arxiv.org/list/astro-ph/1711?show=1440
+https://export.arxiv.org/list/astro-ph/1706?show=1272
+https://export.arxiv.org/list/astro-ph/1712?show=1286
+https://export.arxiv.org/list/astro-ph/1703?show=1273
+https://export.arxiv.org/list/astro-ph/1710?show=1450
+https://export.arxiv.org/list/astro-ph/1701?show=1259
+https://export.arxiv.org/list/astro-ph/1708?show=1175
+https://export.arxiv.org/list/astro-ph/1702?show=1082
+https://export.arxiv.org/list/astro-ph/1508?show=1107
+https://export.arxiv.org/list/astro-ph/1504?show=1229
+https://export.arxiv.org/list/astro-ph/1501?show=1209
+https://export.arxiv.org/list/astro-ph/1507?show=1234
+https://export.arxiv.org/list/astro-ph/1510?show=1367
+https://export.arxiv.org/list/astro-ph/1502?show=1139
+https://export.arxiv.org/list/astro-ph/1512?show=1226
+https://export.arxiv.org/list/astro-ph/1511?show=1356
+https://export.arxiv.org/list/astro-ph/1509?show=1394
+https://export.arxiv.org/list/astro-ph/1505?show=1213
+https://export.arxiv.org/list/astro-ph/1503?show=1279
+https://export.arxiv.org/list/astro-ph/1506?show=1200
+https://export.arxiv.org/list/astro-ph/9708?show=314
+https://export.arxiv.org/list/astro-ph/9712?show=390
+https://export.arxiv.org/list/astro-ph/9705?show=279
+https://export.arxiv.org/list/astro-ph/9706?show=324
+https://export.arxiv.org/list/astro-ph/9702?show=264
+https://export.arxiv.org/list/astro-ph/9710?show=414
+https://export.arxiv.org/list/astro-ph/9704?show=332
+https://export.arxiv.org/list/astro-ph/9709?show=342
+https://export.arxiv.org/list/astro-ph/9711?show=386
+https://export.arxiv.org/list/astro-ph/9701?show=264
+https://export.arxiv.org/list/astro-ph/9707?show=386
+https://export.arxiv.org/list/astro-ph/9703?show=222
+https://export.arxiv.org/list/astro-ph/2107?show=1498
+https://export.arxiv.org/list/astro-ph/2106?show=1403
+https://export.arxiv.org/list/astro-ph/2103?show=1486
+https://export.arxiv.org/list/astro-ph/2105?show=1357
+https://export.arxiv.org/list/astro-ph/2110?show=1492
+https://export.arxiv.org/list/astro-ph/2108?show=1346
+https://export.arxiv.org/list/astro-ph/2102?show=1240
+https://export.arxiv.org/list/astro-ph/2111?show=1630
+https://export.arxiv.org/list/astro-ph/2104?show=1314
+https://export.arxiv.org/list/astro-ph/2109?show=1539
+https://export.arxiv.org/list/astro-ph/2101?show=1357
+https://export.arxiv.org/list/astro-ph/2112?show=1448
+https://export.arxiv.org/list/astro-ph/9611?show=256
+https://export.arxiv.org/list/astro-ph/9601?show=210
+https://export.arxiv.org/list/astro-ph/9609?show=230
+https://export.arxiv.org/list/astro-ph/9610?show=289
+https://export.arxiv.org/list/astro-ph/9607?show=198
+https://export.arxiv.org/list/astro-ph/9612?show=263
+https://export.arxiv.org/list/astro-ph/9603?show=177
+https://export.arxiv.org/list/astro-ph/9604?show=210
+https://export.arxiv.org/list/astro-ph/9606?show=209
+https://export.arxiv.org/list/astro-ph/9602?show=195
+https://export.arxiv.org/list/astro-ph/9605?show=234
+https://export.arxiv.org/list/astro-ph/9608?show=217
+https://export.arxiv.org/list/astro-ph/2005?show=1331
+https://export.arxiv.org/list/astro-ph/2003?show=1267
+https://export.arxiv.org/list/astro-ph/2012?show=1611
+https://export.arxiv.org/list/astro-ph/2001?show=1279
+https://export.arxiv.org/list/astro-ph/2011?show=1521
+https://export.arxiv.org/list/astro-ph/2006?show=1675
+https://export.arxiv.org/list/astro-ph/2008?show=1286
+https://export.arxiv.org/list/astro-ph/2002?show=1211
+https://export.arxiv.org/list/astro-ph/2009?show=1583
+https://export.arxiv.org/list/astro-ph/2007?show=1637
+https://export.arxiv.org/list/astro-ph/2004?show=1363
+https://export.arxiv.org/list/astro-ph/2010?show=1538
+https://export.arxiv.org/list/astro-ph/1302?show=1090
+https://export.arxiv.org/list/astro-ph/1301?show=1179
+https://export.arxiv.org/list/astro-ph/1304?show=1187
+https://export.arxiv.org/list/astro-ph/1311?show=1103
+https://export.arxiv.org/list/astro-ph/1312?show=1034
+https://export.arxiv.org/list/astro-ph/1303?show=1256
+https://export.arxiv.org/list/astro-ph/1309?show=1212
+https://export.arxiv.org/list/astro-ph/1306?show=1123
+https://export.arxiv.org/list/astro-ph/1305?show=1132
+https://export.arxiv.org/list/astro-ph/1307?show=1397
+https://export.arxiv.org/list/astro-ph/1308?show=1110
+https://export.arxiv.org/list/astro-ph/1310?show=1403
+https://export.arxiv.org/list/astro-ph/9401?show=55
+https://export.arxiv.org/list/astro-ph/9408?show=121
+https://export.arxiv.org/list/astro-ph/9405?show=100
+https://export.arxiv.org/list/astro-ph/9403?show=88
+https://export.arxiv.org/list/astro-ph/9406?show=94
+https://export.arxiv.org/list/astro-ph/9404?show=91
+https://export.arxiv.org/list/astro-ph/9402?show=84
+https://export.arxiv.org/list/astro-ph/9409?show=112
+https://export.arxiv.org/list/astro-ph/9411?show=136
+https://export.arxiv.org/list/astro-ph/9412?show=110
+https://export.arxiv.org/list/astro-ph/9410?show=118
+https://export.arxiv.org/list/astro-ph/9407?show=117
+https://export.arxiv.org/list/astro-ph/0701?show=1029
+https://export.arxiv.org/list/astro-ph/0704?show=884
+https://export.arxiv.org/list/astro-ph/0705?show=915
+https://export.arxiv.org/list/astro-ph/0703?show=900
+https://export.arxiv.org/list/astro-ph/0707?show=885
+https://export.arxiv.org/list/astro-ph/0711?show=1020
+https://export.arxiv.org/list/astro-ph/0708?show=866
+https://export.arxiv.org/list/astro-ph/0710?show=1113
+https://export.arxiv.org/list/astro-ph/0712?show=919
+https://export.arxiv.org/list/astro-ph/0709?show=1037
+https://export.arxiv.org/list/astro-ph/0706?show=924
+https://export.arxiv.org/list/astro-ph/0702?show=852
+https://export.arxiv.org/list/astro-ph/0311?show=700
+https://export.arxiv.org/list/astro-ph/0309?show=927
+https://export.arxiv.org/list/astro-ph/0305?show=682
+https://export.arxiv.org/list/astro-ph/0308?show=615
+https://export.arxiv.org/list/astro-ph/0312?show=750
+https://export.arxiv.org/list/astro-ph/0303?show=742
+https://export.arxiv.org/list/astro-ph/0307?show=657
+https://export.arxiv.org/list/astro-ph/0304?show=641
+https://export.arxiv.org/list/astro-ph/0301?show=718
+https://export.arxiv.org/list/astro-ph/0310?show=996
+https://export.arxiv.org/list/astro-ph/0302?show=703
+https://export.arxiv.org/list/astro-ph/0306?show=709
+https://export.arxiv.org/list/astro-ph/1410?show=1332
+https://export.arxiv.org/list/astro-ph/1403?show=1215
+https://export.arxiv.org/list/astro-ph/1401?show=1275
+https://export.arxiv.org/list/astro-ph/1411?show=1113
+https://export.arxiv.org/list/astro-ph/1402?show=1049
+https://export.arxiv.org/list/astro-ph/1408?show=1079
+https://export.arxiv.org/list/astro-ph/1406?show=1244
+https://export.arxiv.org/list/astro-ph/1412?show=1209
+https://export.arxiv.org/list/astro-ph/1404?show=1138
+https://export.arxiv.org/list/astro-ph/1407?show=1380
+https://export.arxiv.org/list/astro-ph/1405?show=1188
+https://export.arxiv.org/list/astro-ph/1409?show=1333
+https://export.arxiv.org/list/astro-ph/0803?show=794
+https://export.arxiv.org/list/astro-ph/0811?show=918
+https://export.arxiv.org/list/astro-ph/0810?show=1039
+https://export.arxiv.org/list/astro-ph/0809?show=1091
+https://export.arxiv.org/list/astro-ph/0801?show=1113
+https://export.arxiv.org/list/astro-ph/0802?show=935
+https://export.arxiv.org/list/astro-ph/0806?show=948
+https://export.arxiv.org/list/astro-ph/0808?show=776
+https://export.arxiv.org/list/astro-ph/0805?show=880
+https://export.arxiv.org/list/astro-ph/0812?show=903
+https://export.arxiv.org/list/astro-ph/0807?show=988
+https://export.arxiv.org/list/astro-ph/0804?show=860
+https://export.arxiv.org/list/astro-ph/1003?show=1110
+https://export.arxiv.org/list/astro-ph/1011?show=1269
+https://export.arxiv.org/list/astro-ph/1006?show=1052
+https://export.arxiv.org/list/astro-ph/1004?show=1021
+https://export.arxiv.org/list/astro-ph/1008?show=1021
+https://export.arxiv.org/list/astro-ph/1002?show=945
+https://export.arxiv.org/list/astro-ph/1005?show=1140
+https://export.arxiv.org/list/astro-ph/1012?show=1054
+https://export.arxiv.org/list/astro-ph/1010?show=1162
+https://export.arxiv.org/list/astro-ph/1001?show=1035
+https://export.arxiv.org/list/astro-ph/1009?show=1305
+https://export.arxiv.org/list/astro-ph/1007?show=1007
+https://export.arxiv.org/list/astro-ph/0203?show=582
+https://export.arxiv.org/list/astro-ph/0208?show=651
+https://export.arxiv.org/list/astro-ph/0204?show=598
+https://export.arxiv.org/list/astro-ph/0205?show=639
+https://export.arxiv.org/list/astro-ph/0206?show=574
+https://export.arxiv.org/list/astro-ph/0202?show=579
+https://export.arxiv.org/list/astro-ph/0211?show=737
+https://export.arxiv.org/list/astro-ph/0212?show=651
+https://export.arxiv.org/list/astro-ph/0201?show=607
+https://export.arxiv.org/list/astro-ph/0207?show=737
+https://export.arxiv.org/list/astro-ph/0210?show=784
+https://export.arxiv.org/list/astro-ph/0209?show=704
+https://export.arxiv.org/list/astro-ph/1602?show=1183
+https://export.arxiv.org/list/astro-ph/1604?show=1217
+https://export.arxiv.org/list/astro-ph/1609?show=1367
+https://export.arxiv.org/list/astro-ph/1606?show=1217
+https://export.arxiv.org/list/astro-ph/1607?show=1264
+https://export.arxiv.org/list/astro-ph/1603?show=1359
+https://export.arxiv.org/list/astro-ph/1611?show=1317
+https://export.arxiv.org/list/astro-ph/1612?show=1240
+https://export.arxiv.org/list/astro-ph/1610?show=1316
+https://export.arxiv.org/list/astro-ph/1601?show=1145
+https://export.arxiv.org/list/astro-ph/1605?show=1299
+https://export.arxiv.org/list/astro-ph/1608?show=1252
+https://export.arxiv.org/list/astro-ph/0011?show=650
+https://export.arxiv.org/list/astro-ph/0003?show=552
+https://export.arxiv.org/list/astro-ph/0004?show=465
+https://export.arxiv.org/list/astro-ph/0005?show=654
+https://export.arxiv.org/list/astro-ph/0012?show=612
+https://export.arxiv.org/list/astro-ph/0008?show=571
+https://export.arxiv.org/list/astro-ph/0010?show=718
+https://export.arxiv.org/list/astro-ph/0007?show=535
+https://export.arxiv.org/list/astro-ph/0006?show=508
+https://export.arxiv.org/list/astro-ph/0009?show=563
+https://export.arxiv.org/list/astro-ph/0002?show=586
+https://export.arxiv.org/list/astro-ph/0001?show=605
+https://export.arxiv.org/list/astro-ph/9806?show=457
+https://export.arxiv.org/list/astro-ph/9807?show=403
+https://export.arxiv.org/list/astro-ph/9810?show=558
+https://export.arxiv.org/list/astro-ph/9803?show=397
+https://export.arxiv.org/list/astro-ph/9802?show=410
+https://export.arxiv.org/list/astro-ph/9805?show=419
+https://export.arxiv.org/list/astro-ph/9801?show=368
+https://export.arxiv.org/list/astro-ph/9811?show=533
+https://export.arxiv.org/list/astro-ph/9808?show=400
+https://export.arxiv.org/list/astro-ph/9809?show=464
+https://export.arxiv.org/list/astro-ph/9804?show=384
+https://export.arxiv.org/list/astro-ph/9812?show=521
+https://export.arxiv.org/list/astro-ph/9504?show=120
+https://export.arxiv.org/list/astro-ph/9505?show=171
+https://export.arxiv.org/list/astro-ph/9503?show=150
+https://export.arxiv.org/list/astro-ph/9501?show=138
+https://export.arxiv.org/list/astro-ph/9508?show=174
+https://export.arxiv.org/list/astro-ph/9502?show=121
+https://export.arxiv.org/list/astro-ph/9506?show=171
+https://export.arxiv.org/list/astro-ph/9512?show=196
+https://export.arxiv.org/list/astro-ph/9509?show=175
+https://export.arxiv.org/list/astro-ph/9511?show=171
+https://export.arxiv.org/list/astro-ph/9510?show=188
+https://export.arxiv.org/list/astro-ph/9507?show=135
